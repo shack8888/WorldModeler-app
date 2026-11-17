@@ -1,0 +1,20 @@
+WorldModeler License / ワールドモデラー 利用規約
+Copyright (c) 2026 My Voxels Inc. / マイボクセル株式会社
+
+[日本語]
+1. このソフトウェア（アプリと、いっしょに入っているファイル）は無料で使えます。個人でも仕事でも使えます。
+2. このソフトウェアで作ったマップは、作った人の物です。自分のゲームや作品に自由に使えます。
+3. いっしょに入っている部品（鳥居・屋台・木など）と見本のマップは、自分のマップやゲームの中で使えます。部品や見本だけを取り出して配ること・売ることはできません。
+4. ソフトウェア自体を配り直すこと、売ること、改変した物を配ることはできません。
+5. 無保証です。使ったことで起きたどんな損害についても、作者は責任を負いません。
+6. three.js と Electron（どちらも MIT ライセンス）を使っています。それぞれのライセンスは LICENSE-three.js.txt などを見てください。
+
+[English]
+1. This software (the app and the files that come with it) is free to use, for personal and commercial purposes.
+2. Maps you make with it are yours. Use them freely in your own games and works.
+3. The bundled parts (the torii, the stalls, the trees and so on) and the sample map may be used in your own maps and games. You may not distribute or sell the parts or the sample on their own.
+4. You may not redistribute or sell the software, or distribute modified copies of it.
+5. It is provided "as is", without warranty of any kind. The author is not liable for any damage arising from its use.
+6. It uses three.js and Electron (both MIT). See LICENSE-three.js.txt and the other license files.
+
+Roblox is a trademark of Roblox Corporation. This software is not affiliated with or endorsed by Roblox Corporation.
